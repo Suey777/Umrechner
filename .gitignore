@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+custom_drugs.json
+history.json
+.venv/
+venv/
+.vscode/
+.idea/
