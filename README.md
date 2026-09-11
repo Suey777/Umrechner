@@ -45,4 +45,4 @@ Beispiele:
 **Diese App dient ausschließlich Informationszwecken.** Alle Umrechnungen sind Richtwerte und ersetzen unter keinen Umständen eine ärztliche Beratung oder Diagnose. Die individuelle Wirkung von Medikamenten kann stark variieren. Die Nutzung erfolgt auf eigene Gefahr.
 
 ---
-*Entwickelt von Junie*
+*Entwickelt von SueyWilliam"
